@@ -1,0 +1,9 @@
+[
+  {
+    "operationType": 0,
+    "path": "string",
+    "op": "string",
+    "from": "string",
+    "value": "string"
+  }
+]
